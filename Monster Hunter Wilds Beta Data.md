@@ -73,7 +73,7 @@ Not really sure what the gimmicks are, but my guess is special events that happe
 Im guessing that they have to do with events that occur in the world.
 VILLAGE_BOOST - something to do with the village
 XXXX_VIEW - I think environment, desert is Thunder, not sure what GM037 would be
-almost defnitely has something to do with the maps
+almost definitely has something to do with the maps
 
 ![](./attachments/Pasted%20image%2020241106214151.png)
 There also might be an elevator in the game based on:
